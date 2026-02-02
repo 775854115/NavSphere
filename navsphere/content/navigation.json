@@ -183,6 +183,14 @@
           "description": "访问 103.194.185.51",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=103.194.185.51",
           "enabled": true
+        },
+        {
+          "id": "site_1770040082258_aqedmzxk0",
+          "title": "看戏网-最新电影免费观看-电视剧排行榜-看戏影视",
+          "href": "https://www.kanxi123.net/",
+          "description": "看戏影视(www.kanxi123.net)提供好看的电影电视剧、经典动漫、综艺节目等最新资源，看戏影视专注打造精品电影电视剧影视网！",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kanxi123.net",
+          "enabled": true
         }
       ],
       "subCategories": []
