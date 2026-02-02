@@ -168,6 +168,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1770040030751",
+      "title": "影视",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
