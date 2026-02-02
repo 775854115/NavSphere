@@ -6,7 +6,16 @@
       "icon": "Zap",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1770038312494_ahoz96pra",
+          "title": "Aitags",
+          "href": "https://www.aitags.cn/",
+          "description": "访问 www.aitags.cn",
+          "icon": "/assets/favicon_1770038294738.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
