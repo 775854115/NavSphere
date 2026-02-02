@@ -175,7 +175,16 @@
       "icon": "Video",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1770040058777_6leu9r0b8",
+          "title": "好好看",
+          "href": "https://103.194.185.51:51123/",
+          "description": "访问 103.194.185.51",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=103.194.185.51",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
