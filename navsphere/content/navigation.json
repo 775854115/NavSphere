@@ -132,6 +132,14 @@
               "description": "访问 life.douyin.com",
               "icon": "/assets/favicon_1770039859423.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770039901645_dnwwsah15",
+              "title": "千牛工作台",
+              "href": "https://loginmyseller.taobao.com",
+              "description": "商家一站式经营阵地",
+              "icon": "/assets/favicon_1770039887192.png",
+              "enabled": true
             }
           ]
         }
