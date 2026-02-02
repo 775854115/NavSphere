@@ -148,6 +148,14 @@
               "description": "访问 www2.baidu.com",
               "icon": "/assets/favicon_1770039916715.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770039959362_up35uyj7b",
+              "title": "1688",
+              "href": "https://www.1688.com",
+              "description": "访问 www.1688.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.1688.com",
+              "enabled": true
             }
           ]
         }
