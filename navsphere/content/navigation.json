@@ -65,6 +65,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "4241b4d3-96f1-41ab-8b2e-3c165ee2fa79",
+          "title": "AI检测",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
