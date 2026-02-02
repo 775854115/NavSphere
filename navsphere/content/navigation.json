@@ -16,7 +16,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "fb0fdbf0-0e7f-4d53-8944-5025546a00ad",
+          "title": "AI助手",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1770038243726",
