@@ -101,7 +101,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "3f8e129f-5993-47c5-976e-d0107c4701e8",
+          "title": "平台登陆",
+          "icon": "Folder",
+          "description": "",
+          "enabled": false,
+          "items": []
+        }
+      ]
     }
   ]
 }
