@@ -23,7 +23,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1770039359083_79x259uoc",
+              "title": "Chatgpt",
+              "href": "https://chatgpt.com/",
+              "description": "访问 chatgpt.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=chatgpt.com",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
