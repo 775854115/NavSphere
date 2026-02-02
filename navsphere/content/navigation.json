@@ -55,6 +55,14 @@
               "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
               "icon": "/assets/favicon_1770039453969.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770039521731_9ut9s7wow",
+              "title": "通义千问",
+              "href": "https://tongyi.aliyun.com/",
+              "description": "通义千问，阿里AI语言模型",
+              "icon": "/assets/favicon_1770039495803.png",
+              "enabled": true
             }
           ]
         }
