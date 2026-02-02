@@ -108,7 +108,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": false,
-          "items": []
+          "items": [
+            {
+              "id": "site_1770039804379_jxm7qq4t3",
+              "title": "巨量引擎工作台",
+              "href": "https://business.oceanengine.com/login?appKey=0",
+              "description": "",
+              "icon": "/assets/favicon_1770039793854.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
