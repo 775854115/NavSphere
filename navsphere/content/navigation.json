@@ -156,6 +156,14 @@
               "description": "访问 www.1688.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.1688.com",
               "enabled": true
+            },
+            {
+              "id": "site_1770039983828_5fp9162y1",
+              "title": "【CRM登录】销售易CRM",
+              "href": "https://login.xiaoshouyi.com/",
+              "description": "",
+              "icon": "/assets/favicon_1770039977303.ico",
+              "enabled": true
             }
           ]
         }
