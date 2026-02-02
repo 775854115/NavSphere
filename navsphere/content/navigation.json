@@ -124,6 +124,14 @@
               "description": "访问 localads.chengzijianzhan.cn",
               "icon": "/assets/favicon_1770039830664.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770039872629_1hpirkefh",
+              "title": "抖音来客",
+              "href": "https://life.douyin.com/",
+              "description": "访问 life.douyin.com",
+              "icon": "/assets/favicon_1770039859423.png",
+              "enabled": true
             }
           ]
         }
