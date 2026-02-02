@@ -116,6 +116,14 @@
               "description": "",
               "icon": "/assets/favicon_1770039793854.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770039844245_d9fsj6qx4",
+              "title": "本地推",
+              "href": "https://localads.chengzijianzhan.cn/lamp/pc/login/",
+              "description": "访问 localads.chengzijianzhan.cn",
+              "icon": "/assets/favicon_1770039830664.png",
+              "enabled": true
             }
           ]
         }
