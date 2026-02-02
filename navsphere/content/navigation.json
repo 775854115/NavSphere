@@ -22,7 +22,7 @@
           "title": "AI助手",
           "icon": "Folder",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": [
             {
               "id": "site_1770039359083_79x259uoc",
