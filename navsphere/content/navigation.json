@@ -191,6 +191,14 @@
           "description": "看戏影视(www.kanxi123.net)提供好看的电影电视剧、经典动漫、综艺节目等最新资源，看戏影视专注打造精品电影电视剧影视网！",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kanxi123.net",
           "enabled": true
+        },
+        {
+          "id": "site_1770040100291_zx54fe1q5",
+          "title": "两个BT &#8211; BT下载与分享",
+          "href": "https://www.bttwoo.com/",
+          "description": "两个BT免费为网友提交BT种子下载，免费电影资源下载，以及各种高清电影在线观看,最全的最新电视剧，最近上映热门电影下载。韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、动漫番剧。",
+          "icon": "/assets/favicon_1770040096022.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
