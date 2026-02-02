@@ -71,7 +71,7 @@
           "title": "AI检测",
           "icon": "Folder",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": []
         }
       ]
