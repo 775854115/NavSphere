@@ -19,6 +19,15 @@
       "subCategories": []
     },
     {
+      "id": "1770038371366",
+      "title": "AI助手",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1770038243726",
       "title": "工具",
       "icon": "Folder",
@@ -31,15 +40,6 @@
       "id": "1770038268793",
       "title": "办公",
       "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1770038371366",
-      "title": "AI助手",
-      "icon": "FolderKanban",
       "description": "",
       "enabled": true,
       "items": [],
