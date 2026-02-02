@@ -140,6 +140,14 @@
               "description": "商家一站式经营阵地",
               "icon": "/assets/favicon_1770039887192.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770039927795_nl1eqvcre",
+              "title": "百度营销",
+              "href": "http://www2.baidu.com",
+              "description": "访问 www2.baidu.com",
+              "icon": "/assets/favicon_1770039916715.png",
+              "enabled": true
             }
           ]
         }
