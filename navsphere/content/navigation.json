@@ -107,7 +107,7 @@
           "title": "平台登陆",
           "icon": "Folder",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": [
             {
               "id": "site_1770039804379_jxm7qq4t3",
