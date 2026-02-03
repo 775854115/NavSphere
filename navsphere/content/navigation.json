@@ -71,7 +71,7 @@
           "title": "AI检测",
           "icon": "Folder",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": [
             {
               "id": "site_1770039670330_wlzd50ch1",
